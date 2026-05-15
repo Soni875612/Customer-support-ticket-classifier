@@ -1,4 +1,4 @@
-<img width="797" height="794" alt="Screenshot 2026-01-07 223949" src="https://github.com/user-attachments/assets/62c1f6da-9fa4-4f3c-b826-9fbe6030b609" /># 🎫 Customer Support Ticket Classifier
+# 🎫 Customer Support Ticket Classifier
 
 > An end-to-end ML pipeline that automatically classifies customer support tickets by **category** and **urgency level**, and recommends the appropriate action — built with TF-IDF + Logistic Regression.
 
