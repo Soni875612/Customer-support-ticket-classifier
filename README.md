@@ -293,18 +293,26 @@ flask-cors     — Cross-Origin Resource Sharing
 
 ## 🎬Project Screenshots
 <img width="1918" height="926" alt="image" src="https://github.com/user-attachments/assets/b433fcc0-2336-4358-a485-69ddd50ae6ed" />
+
 <img width="1919" height="906" alt="image" src="https://github.com/user-attachments/assets/2137cd59-d7b3-4b37-a418-8f4791b68fc1" />
+
 <img width="1919" height="922" alt="image" src="https://github.com/user-attachments/assets/774d759e-6594-4719-a893-01c2508a7c05" />
+
 <img width="1909" height="913" alt="image" src="https://github.com/user-attachments/assets/b6c92c83-af5d-41b3-bdcc-cc18132f5327" />
+
 <img width="1914" height="909" alt="image" src="https://github.com/user-attachments/assets/1a2dccbd-7536-4825-aed5-d43c32460f9d" />
+
 <img width="1710" height="836" alt="image" src="https://github.com/user-attachments/assets/173a72ba-e1ce-4a36-bd1b-029ad1c9fc17" />
+
 <img width="1917" height="776" alt="image" src="https://github.com/user-attachments/assets/c12292b9-cb24-4f00-bcf3-9ef8e53d0593" />
+
 <img width="1919" height="629" alt="image" src="https://github.com/user-attachments/assets/6dd358f5-1526-4372-bafc-94a54be62629" />
+
 <img width="1919" height="880" alt="image" src="https://github.com/user-attachments/assets/e8e170ee-87ba-491a-855b-161280c780b0" />
+
 <img width="1666" height="853" alt="image" src="https://github.com/user-attachments/assets/84ec36ad-807e-4c25-a879-7497a4538a15" />
+
 <img width="1658" height="730" alt="image" src="https://github.com/user-attachments/assets/ee442b78-267e-40ff-aeca-58f59f7ad8f7" />
-
-
 
 
 
